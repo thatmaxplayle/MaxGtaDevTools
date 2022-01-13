@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxGtaDevTools", "MaxGtaDevTools.csproj", "{B0FF2780-8209-4ED6-9637-D4BA910ED2BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0FF2780-8209-4ED6-9637-D4BA910ED2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FF2780-8209-4ED6-9637-D4BA910ED2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FF2780-8209-4ED6-9637-D4BA910ED2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FF2780-8209-4ED6-9637-D4BA910ED2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA7210A0-6617-4503-A39C-764610D2136E}
+	EndGlobalSection
+EndGlobal
